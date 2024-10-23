@@ -1,0 +1,239 @@
+[
+    {
+        "District": "Colombo",
+        "Cities": [
+            "Colombo",
+            "Dehiwala-Mount-Lavinia",
+            "Moratuwa",
+            "Kotte",
+            "Battaramulla",
+            "Maharagama",
+            "Kotikawatta",
+            "Kolonnawa",
+            "Keselwatta",
+            "Homagama",
+            "Mulleriyawa",
+            "Kesbewa",
+            "Avissawella",
+            "Kaduwela",
+            "Boralesgamuwa",
+            "Piliyandala",
+            "Nugegoda",
+            "Nawala",
+            "Padukka",
+            "Kottawa",
+            "Pannipitiya",
+            "Malabe",
+            "Hanwella",
+            "Rajagiriya"
+        ]
+    },
+    {
+        "District": "Gampaha",
+        "Cities": [
+            "Gampaha",
+            "Negombo",
+            "Katunayake",
+            "Hendala",
+            "Welisara",
+            "Ragama",
+            "Kandana",
+            "Ja-Ela",
+            "Wattala",
+            "Kelaniya",
+            "Peliyagoda",
+            "Minuwangoda",
+            "Kadawatha",
+            "Dompe",
+            "Divulapitiya",
+            "Nittambuwa",
+            "Mirigama",
+            "Kiribathgoda",
+            "Veyangoda",
+            "Ganemulla"
+        ]
+    },
+    {
+        "District": "Kandy",
+        "Cities": [
+            "Kandy",
+            "Gampola",
+            "Nawalapitiya",
+            "Wattegama",
+            "Harispattuwa",
+            "Kadugannawa"
+        ]
+    },
+    {
+        "District": "Kurunegala",
+        "Cities": [
+            "Kurunegala",
+            "Kuliyapitiya",
+            "Polgahawela",
+            "Pannala"
+        ]
+    },
+    {
+        "District": "Ratnapura",
+        "Cities": [
+            "Ratnapura",
+            "Balangoda",
+            "Eheliyagoda",
+            "Kalawana",
+            "Embilipitiya"
+        ]
+    },
+    {
+        "District": "Kalutara",
+        "Cities": [
+            "Kalutara",
+            "Beruwala",
+            "Panadura",
+            "Horana",
+            "Matugama",
+            "Bandaragama"
+        ]
+    },
+    {
+        "District": "Puttalam",
+        "Cities": [
+            "Puttalam",
+            "Chilaw",
+            "Nattandiya",
+            "Wennappuwa",
+            "Marawila",
+            "Dankotuwa"
+        ]
+    },
+    {
+        "District": "Kegalle",
+        "Cities": [
+            "Kegalle",
+            "Mawanella",
+            "Warakapola"
+        ]
+    },
+    {
+        "District": "Matale",
+        "Cities": [
+            "Matale",
+            "Dambulla",
+            "Sigiriya"
+        ]
+    },
+    {
+        "District": "Badulla",
+        "Cities": [
+            "Badulla",
+            "Bandarawela",
+            "Haputale",
+            "Welimada",
+            "Mahiyanganaya"
+        ]
+    },
+    {
+        "District": "Nuwara-Eliya",
+        "Cities": [
+            "Nuwara-Eliya",
+            "Hatton",
+            "Talawakele"
+        ]
+    },
+    {
+        "District": "Galle",
+        "Cities": [
+            "Galle",
+            "Ambalangoda",
+            "Bentota",
+            "Hikkaduwa",
+            "Elpitiya",
+            "Koggala"
+        ]
+    },
+    {
+        "District": "Matara",
+        "Cities": [
+            "Matara",
+            "Weligama"
+        ]
+    },
+    {
+        "District": "Hambantota",
+        "Cities": [
+            "Hambantota",
+            "Tangalle",
+            "Middeniya"
+        ]
+    },
+    {
+        "District": "Batticaloa",
+        "Cities": [
+            "Batticaloa",
+            "Kattankudy",
+            "Eravur"
+        ]
+    },
+    {
+        "District": "Ampara",
+        "Cities": [
+            "Ampara",
+            "Kalmunai"
+        ]
+    },
+    {
+        "District": "Jaffna",
+        "Cities": [
+            "Jaffna",
+            "Chavakacheri",
+            "Valvettithurai"
+        ]
+    },
+    {
+        "District": "Anuradapura",
+        "Cities": [
+            "Anuradapura"
+        ]
+    },
+    {
+        "District": "Polonnaruwa",
+        "Cities": [
+            "Polonnaruwa"
+        ]
+    },
+    {
+        "District": "Moneragala",
+        "Cities": [
+            "Moneragala"
+        ]
+    },
+    {
+        "District": "Trincomalee",
+        "Cities": [
+            "Trincomalee"
+        ]
+    },
+    {
+        "District": "Mannar",
+        "Cities": [
+            "Mannar"
+        ]
+    },
+    {
+        "District": "Vavuniya",
+        "Cities": [
+            "Vavuniya"
+        ]
+    },
+    {
+        "District": "Kilinochchi",
+        "Cities": [
+            "Kilinochchi"
+        ]
+    },
+    {
+        "District": "Mullaitivu",
+        "Cities": [
+            "Mullaitivu"
+        ]
+    }
+]
